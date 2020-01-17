@@ -1,0 +1,1 @@
+If you would like to see UiFlow in your language or would like to correct an error in any current translations you can do so here. Raise an issue or fork the repository and create a pull request to contribute.
